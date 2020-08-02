@@ -18,7 +18,9 @@ This repository contains many simple python codes for beginners to practice.
 
 # 6 -- checking a given number is a prime number or not a prime number.
 
-# 7 -- simple while loop statement in a code ( also contains a while loop inside a while loop).
+# 7 -- simple calculator using python
 
-# 8 -- simple calculator using python
+# 8 -- simple while loop statement in a code ( also contains a while loop inside a while loop).
+
+
 
