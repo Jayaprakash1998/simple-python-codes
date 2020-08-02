@@ -20,3 +20,5 @@ This repository contains many simple python codes for beginners to practice.
 
 # 7 -- simple while loop statement in a code ( also contains a while loop inside a while loop).
 
+# 8 -- simple calculator using python
+
