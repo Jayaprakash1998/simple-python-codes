@@ -20,7 +20,9 @@ This repository contains many simple python codes for beginners to practice.
 
 # 7 -- simple calculator using python
 
-# 8 -- simple while loop statement in a code ( also contains a while loop inside a while loop).
+# 8 -- simple while loop statement (Nested while loop example).
+
+# 9 -- vowels remover (program to remove vowels from the give string) 
 
 
 
